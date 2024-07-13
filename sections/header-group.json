@@ -14,9 +14,9 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "settings": {
-        "text": "",
-        "bg_color": "#ffffff",
-        "text_color": "#000000"
+        "text": "<p><strong>20% OFF ON EVERYTHING<\/strong><\/p>",
+        "bg_color": "#40bbff",
+        "text_color": "#ffffff"
       }
     },
     "header": {
